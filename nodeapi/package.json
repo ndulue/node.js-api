@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_api",
+  "version": "6.9.0",
+  "description": "a crud nodejs api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node alive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "install"
+  ],
+  "author": "emeka ndulue",
+  "license": "Artistic-2.0"
+}
